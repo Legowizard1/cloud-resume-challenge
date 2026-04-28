@@ -1,7 +1,8 @@
 Cloud Resume Challenge
 
 This repository contains the infrastructure-as-code and source files for my professional cloud portfolio on AWS.
-Core Stack
+
+Core Stack:
 
     Infrastructure: Terraform
 
